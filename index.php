@@ -5,7 +5,7 @@ include("connect.php");
 
 <div class="w3-panel">
     <p>This is a simple blog project for my PHP development skills.
-    im here because hacktoberfest 2019</p>
+    im here because hacktoberfest 2019!!</p>
 </div>
 
 <?php
